@@ -1,8 +1,8 @@
 # QA Portfolio – Nina Hirchuk
 
-Welcome to my QA Portfolio.
+Welcome to my QA Portfolio!
 
-This repository contains practical examples of my work in Manual Testing, API Testing, SQL validation, and QA documentation.
+This repository contains practical examples of my work in Manual Testing, API Testing, SQL validation, and QA documentation. The portfolio demonstrates my testing approach, documentation skills, and experience working with real web applications.
 
 ## Repository Structure
 
@@ -15,23 +15,37 @@ This repository contains practical examples of my work in Manual Testing, API Te
 - Postman Collections
 - API Test Reports
 
-### Bug Reports
+### Bug Reporting
+- Bug Reports
 - Defect Reports
 
 ### SQL
-- SQL validation examples
+- SQL Validation Examples
 
-## Project Under Test
+## Project
 
-Movie Finder
+### Hotel Booking Website Testing
 
-A web application used to practice software testing techniques, including functional testing, API testing, and database validation.
+A complete QA project based on testing a hotel booking web application.
+
+The project includes:
+
+- Functional Test Cases
+- Checklists
+- Test Plan
+- Bug Reports
+- API Testing with Postman
+- SQL Validation
+- Test Documentation
 
 ## Skills Demonstrated
 
 - Manual Testing
-- Test Case Design
+- Test Design
 - Bug Reporting
 - API Testing (Postman)
-- SQL Validation
+- SQL
 - Git & GitHub
+- Basic Python
+
+Thank you for visiting my portfolio!
