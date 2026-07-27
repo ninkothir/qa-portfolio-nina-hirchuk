@@ -1,4 +1,4 @@
-# BR-001 – Search button does not start search
+# BR-001 – Sample Bug Report: Search button does not start search
 
 ## Summary
 The search does not start after clicking the **Search** button with valid data entered.
